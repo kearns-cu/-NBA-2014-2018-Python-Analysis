@@ -1,4 +1,4 @@
-### Personal Info
+## Personal Info
 <ul>
 <li> Ronan Kearns </li>
 <li> 2366311 </li>
