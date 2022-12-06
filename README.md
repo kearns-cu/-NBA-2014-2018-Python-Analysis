@@ -1,10 +1,10 @@
 ### Personal Info
 <ul>
-<li>a. Ronan Kearns </li>
-<li>b. 2366311 </li>
-<li>c. rkearns@chapman.edu </li>
-<li>d. CPSC 392-02 </li>
-<li>e. Final Project - Part 5 </li>
+<li> Ronan Kearns </li>
+<li> 2366311 </li>
+<li> rkearns@chapman.edu </li>
+<li> CPSC 392-02 </li>
+<li> Final Project - Part 5 </li>
 </ul>
 # Notes
 Group Members:
