@@ -6,7 +6,7 @@
 <li> CPSC 392-02 </li>
 <li> Final Project - Part 5 </li>
 </ul>
-# Notes
-Group Members:
+
+## Group Members:
 - Darren Pak
 - Jared Miyatake
